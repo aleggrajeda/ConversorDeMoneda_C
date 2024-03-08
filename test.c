@@ -27,7 +27,8 @@ double convertirMoneda(double cantidad, int opcion) {
 
 int main() {
     int opcion;
-    double cantidad;
+    double cantidad; // prueba
+
 
     printf("Bienvenido al conversor de monedas\n");
     printf("Por favor seleccione una opción:\n");
